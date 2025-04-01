@@ -1,4 +1,4 @@
-Olá, eu sou o André Silva.
+Olá, sou o André Silva.
 
 Trabalho como Técnico Eletrônico e estou estudando Engenharia de Dados.
 Atualmente estou estudando Python e SQL.
