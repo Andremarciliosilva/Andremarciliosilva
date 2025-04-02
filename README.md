@@ -1,6 +1,7 @@
 ## Olá, sou o André Silva.
 
-Trabalho como Técnico Eletrônico e estou estudando Engenharia de Dados.<br>
+  Trabalho como Técnico Eletrônico e estou estudando Engenharia de Dados.<br><br>
+    Atualmente na minha atual profissão trabalho com programação de máquinas e bastante raciocínio lógico para resolução de problemas, desde que comecei a estudar Engenharia de Dados percebi que existem conceitos da minha profissão atual que se assemelham com a lógica de programação e a Engenharia de Dados, estou buscando transferir esses conceitos e habilidades para área de dados.
 
 Atualmente estou estudando sobre: <br>
 
@@ -10,7 +11,10 @@ Atualmente estou estudando sobre: <br>
 * DBT (Data Build Tool)<br>
 * Airbyte<br>
 
-Aqui você poderá ver alguns dos meus projetos pessoais.
+Aqui você poderá ver alguns dos meus projetos pessoais.<br><br>
+
+Formação Acdêmica<br>
+Fatec São Bernardo do Campo Adib Moises Dib - Curso Superior de Tecnologia em Automação Industrial <br>
 
 
 <div style="display: inline_block"><br>
