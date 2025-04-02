@@ -13,7 +13,7 @@ Atualmente estou estudando sobre: <br>
 
 Aqui você poderá ver alguns dos meus projetos pessoais.<br><br>
 
-Formação Acdêmica<br>
+#### Formação Acadêmica<br>
 Fatec São Bernardo do Campo Adib Moises Dib - Curso Superior de Tecnologia em Automação Industrial <br>
 
 
