@@ -5,7 +5,7 @@
 
 Atualmente estou estudando sobre: <br>
 
-* Processos de ETL<br>
+* Processos de ETL e ELT<br>
 * Python<br>
 * SQL<br>
 * DBT (Data Build Tool)<br>
