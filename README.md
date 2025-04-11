@@ -1,7 +1,7 @@
 ## Olá, sou o André Silva.
 
   Trabalho como Técnico Eletrônico e também sou estudante de Engenharia de Dados.<br><br>
-    Atualmente na minha atual profissão trabalho com programação de máquinas e bastante raciocínio lógico para resolução de problemas, desde que comecei a estudar Engenharia de Dados percebi que existem conceitos da minha profissão atual que se assemelham com a lógica de programação e a Engenharia de Dados, estou buscando transferir esses conceitos e habilidades para área de dados.
+    Na minha atual profissão trabalho com programação de máquinas e bastante raciocínio lógico para resolução de problemas, desde que comecei a estudar Engenharia de Dados percebi que existem conceitos da minha profissão atual que se assemelham com a lógica de programação e a Engenharia de Dados, estou buscando transferir esses conceitos e habilidades para área de dados.
 
 Atualmente estou estudando sobre: <br>
 
