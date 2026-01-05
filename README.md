@@ -5,9 +5,9 @@
 
 Atualmente estou estudando sobre: <br>
 
-* Processos de ETL e ELT<br>
 * Python<br>
 * SQL<br>
+* Processos de ETL e ELT<br>
 * DBT (Data Build Tool)<br>
 * Airbyte
 * Docker<br>
