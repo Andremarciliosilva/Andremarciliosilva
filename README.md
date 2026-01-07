@@ -7,10 +7,11 @@ Atualmente estou estudando sobre: <br>
 
 * Python<br>
 * SQL<br>
+* Docker<br>
 * Processos de ETL e ELT<br>
 * DBT (Data Build Tool)<br>
 * Airbyte
-* Docker<br>
+
 
 Aqui você poderá ver alguns dos meus projetos pessoais.<br><br>
 
