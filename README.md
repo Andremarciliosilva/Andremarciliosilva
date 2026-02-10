@@ -1,30 +1,36 @@
 ## Olá, sou o André Silva.
 
-  Trabalho como Técnico Eletrônico e também sou estudante de Engenharia de Dados.<br><br>
-    Na minha atual profissão trabalho com programação de máquinas e bastante raciocínio lógico para resolução de problemas, desde que comecei a estudar Engenharia de Dados percebi que existem conceitos da minha profissão atual que se assemelham com a lógica de programação e a Engenharia de Dados, estou buscando transferir esses conceitos e habilidades para área de dados.
+&emsp;&emsp; Atuo como Técnico Eletrônico e ao longo da minha carreira sempre trabalhei muito próximo de programação de máquinas,  
+análise de falhas e resolução de problemas complexos. Com o tempo, comecei a me interessar cada vez mais pela forma como  
+dados podem ser utilizados para entender processos e apoiar decisões, o que me levou a aprofundar meus estudos nessa área.  
+&emsp;&emsp; Tenho direcionado meu aprendizado para resolver problemas e responder perguntas de negócios, utilizando ferramentas e  
+conceitos relacionados ao universo de dados de acordo com a necessidade de cada situação. Gosto bastante de aprender  
+colocando a mão na massa, então venho desenvolvendo projetos pessoais para aplicar esses conhecimentos na prática.  
 
-Atualmente estou estudando sobre: <br>
+Alguns projetos que estou desenvolvendo envolvem:
 
 * Python<br>
 * SQL<br>
 * Pandas <br>
 * PySpark <br>
-* Docker<br>
 * Processos de ETL e ELT<br>
 
-Aqui você poderá ver alguns dos meus projetos pessoais.<br><br>
-
 #### Formação Acadêmica<br>
-Fatec São Bernardo do Campo Adib Moises Dib - Curso Superior de Tecnologia em Automação Industrial <br>
+
+FATEC São Bernardo do Campo Adib Moisés Dib - Tecnólogo em Automação Industrial
+
+#### Cursos <br>
+Data Science Academy - Cursando Formação Engenharia de Dados
+
+Jornada de Dados - Programa prático focado em Engenharia de Dados, com desenvolvimento de projetos, pipelines e boas práticas de mercado.
+
+Aqui você poderá acompanhar alguns dos projetos que estou desenvolvendo e minha evolução nessa jornada.
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
  
-
-
 </div><br>
 
 
