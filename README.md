@@ -1,10 +1,10 @@
 ## Olá, sou o André Silva.
 
-&emsp;&emsp; Atuo como Técnico Eletrônico e ao longo da minha carreira sempre trabalhei muito próximo de programação de máquinas,  
+&emsp;&emsp; Atualmente sou Técnico Eletrônico e ao longo da minha carreira sempre trabalhei muito próximo de programação de máquinas,  
 análise de falhas e resolução de problemas complexos. Com o tempo, comecei a me interessar cada vez mais pela forma como  
 dados podem ser utilizados para entender processos e apoiar decisões, o que me levou a aprofundar meus estudos nessa área.  
 &emsp;&emsp; Tenho direcionado meu aprendizado para resolver problemas e responder perguntas de negócios, utilizando ferramentas e  
-conceitos relacionados ao universo de dados de acordo com a necessidade de cada situação. Gosto bastante de aprender  
+conceitos relacionados ao universo de dados de acordo com a necessidade de cada projeto. Gosto bastante de aprender  
 colocando a mão na massa, então venho desenvolvendo projetos pessoais para aplicar esses conhecimentos na prática.  
 
 Alguns projetos que estou desenvolvendo envolvem:
